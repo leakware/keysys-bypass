@@ -19,8 +19,13 @@ bruno#2465
 Open an issue if this method ever stops working, if it does
 I'll address and fix the issue in no time.
 
-## The Future
+DO NOT EXPECT UPDATES (THIS IS A SHITTY PROJECT I MADE IN 10 MINUTES)
 
+## Features
+
+✅ Bypass's all advertisments + adware
+✅ Bypass's "Suspicious Activity" alert
+✅ Gets KEY instantly and anonymously
 ❌ Internal bypass using lua 
 
 fuck paying money for some shitty pasted ass scripts lmao
